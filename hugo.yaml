@@ -1,8 +1,11 @@
-baseURL: https://vancouvermesh.ca/
+https://github.com/rascallb/vancouvermeshbaseURL: https://vancouvermesh.ca/
 languageCode: en-us
 title: vancouvermesh.ca
 theme: ["re-terminal"]
 pagination.pagerSize: 5
+caches:
+  images:
+    dir: :cacheDir/images
 
 params:
   # dir name of your blog content (default is `content/posts`)
