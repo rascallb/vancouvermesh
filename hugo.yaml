@@ -1,4 +1,4 @@
-https://github.com/rascallb/vancouvermeshbaseURL: https://vancouvermesh.ca/
+baseURL: https://vancouvermesh.ca/
 languageCode: en-us
 title: vancouvermesh.ca
 theme: ["re-terminal"]
