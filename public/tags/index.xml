@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on vancouvermesh.ca</title>
+    <link>https://vancouvermesh.ca/tags/</link>
+    <description>Recent content in Tags on vancouvermesh.ca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://vancouvermesh.ca/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

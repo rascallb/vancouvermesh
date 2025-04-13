@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>vancouvermesh.ca</title>
+    <link>https://vancouvermesh.ca/</link>
+    <description>Recent content on vancouvermesh.ca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 12 Apr 2025 19:47:36 -0700</lastBuildDate><atom:link href="https://vancouvermesh.ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Join the network</title>
+      <link>https://vancouvermesh.ca/join/join/</link>
+      <pubDate>Sat, 12 Apr 2025 19:47:11 -0700</pubDate>
+      
+      <guid>https://vancouvermesh.ca/join/join/</guid>
+      <description>&lt;p&gt;Are you interested in joining the mesh? You will need to purchase a LoRa radio from the Supported Hardware list.&lt;/p&gt;
+&lt;p&gt;Check out the excellent &lt;a href=&#34;https://pugetmesh.org/meshtastic/faq/&#34;&gt;FAQ&lt;/a&gt; on the Puget Mesh site for an introduction to the technology.&lt;/p&gt;
+&lt;p&gt;There is plenty of information available on the Meshtastic.org site for hardware information &lt;a href=&#34;https://meshtastic.org/docs/hardware/&#34;&gt;meshtastic.org/docs/hardware/&lt;/a&gt; and some advanced technical information available on the Puget Mesh site as well for hackers/DIY heads &lt;a href=&#34;https://pugetmesh.org/meshtastic/equipment/&#34;&gt;Puget Mesh/Equipment&lt;/a&gt;&lt;/p&gt;</description>
+      <content>&lt;p&gt;Are you interested in joining the mesh? You will need to purchase a LoRa radio from the Supported Hardware list.&lt;/p&gt;
+&lt;p&gt;Check out the excellent &lt;a href=&#34;https://pugetmesh.org/meshtastic/faq/&#34;&gt;FAQ&lt;/a&gt; on the Puget Mesh site for an introduction to the technology.&lt;/p&gt;
+&lt;p&gt;There is plenty of information available on the Meshtastic.org site for hardware information &lt;a href=&#34;https://meshtastic.org/docs/hardware/&#34;&gt;meshtastic.org/docs/hardware/&lt;/a&gt; and some advanced technical information available on the Puget Mesh site as well for hackers/DIY heads &lt;a href=&#34;https://pugetmesh.org/meshtastic/equipment/&#34;&gt;Puget Mesh/Equipment&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Learn about Vancouver Mesh and Meshtastic</title>
+      <link>https://vancouvermesh.ca/about/about/</link>
+      <pubDate>Sat, 12 Apr 2025 19:46:21 -0700</pubDate>
+      
+      <guid>https://vancouvermesh.ca/about/about/</guid>
+      <description>&lt;img src=&#34;https://vancouvermesh.ca/cover.png&#34;  alt=&#34;YVR meshtastic map&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;   width=&#34;700&#34;   /&gt;
+
+
+&lt;p&gt;Vancouver Mesh is a community group working to build a mesh network of solar-powered meshtastic radios in Vancouver, BC and the South Island area.&lt;/p&gt;
+&lt;p&gt;This network acts like a city-wide text messaging system, allowing people to communicate publicly or privately with anyone on the network.&lt;/p&gt;
+&lt;p&gt;All of this happens without any external infrastructure - no power, no cell phone towers, no internet.&lt;/p&gt;
+&lt;p&gt;For a live view of the network check out the map: &lt;a href=&#34;https://meshtastic.davekeogh.com/?lat=49.154039828174675&amp;amp;lng=236.8054962158203&amp;amp;zoom=10&#34;&gt;Live map&lt;/a&gt;&lt;/p&gt;</description>
+      <content>
+&lt;img src=&#34;https://vancouvermesh.ca/cover.png&#34;  alt=&#34;YVR meshtastic map&#34;  class=&#34;center&#34;  style=&#34;border-radius: 8px;&#34;   width=&#34;700&#34;   /&gt;
+
+
+&lt;p&gt;Vancouver Mesh is a community group working to build a mesh network of solar-powered meshtastic radios in Vancouver, BC and the South Island area.&lt;/p&gt;
+&lt;p&gt;This network acts like a city-wide text messaging system, allowing people to communicate publicly or privately with anyone on the network.&lt;/p&gt;
+&lt;p&gt;All of this happens without any external infrastructure - no power, no cell phone towers, no internet.&lt;/p&gt;
+&lt;p&gt;For a live view of the network check out the map: &lt;a href=&#34;https://meshtastic.davekeogh.com/?lat=49.154039828174675&amp;amp;lng=236.8054962158203&amp;amp;zoom=10&#34;&gt;Live map&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
