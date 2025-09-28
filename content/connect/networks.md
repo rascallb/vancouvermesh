@@ -6,7 +6,7 @@ title: 'Connect with the Meshtastic community online'
 
 ### Discord: 
 There is a Discord post for the local area called "CAN Van-Vic Region (Lower Mainland, South Island)".
-- Join the Meshtastic Discord server to get access: https://discord.com/invite/meshtastic-867578229534359593 
+- Join the Meshtastic Discord server to get access: https://discord.gg/meshtastic 
 - Search for and join up to the ["CAN Van-Vic Region (Lower Mainland, South Island)"](https://discord.com/channels/867578229534359593/1196935356684173453) post.
 
 ### Mesh/Radio Clubs
